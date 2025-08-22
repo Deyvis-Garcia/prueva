@@ -1,3 +1,3 @@
-def suma(a , b):
-    return a + b
-suma (7,6)
+def suma(a , b,d):
+    return a + b + d
+suma (7,6,6)
