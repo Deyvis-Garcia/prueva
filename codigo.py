@@ -1,4 +1,5 @@
-def suma(a , b,c):
-    return a + b + c
+nombre = "Deyvis Eliezer"
+apellido = "Garcia"
+saludo = "Hola " + nombre + " apellido"  + apellido + "¿como estas?"
+print(saludo)
 
-suma (7,6,9)
